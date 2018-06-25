@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Wiki Tap</string>
+    <string name="loading">Loading...</string>
+    <string name="retry">Retry</string>
+    <string name="version_not_suppoted">Version not Suppoted</string>
+    <string name="version_not_suppoted_details">Version not Suppoted Details</string>
+    <string name="authorization_key">Authorization</string>
+    <string name="key">key</string>
+    <string name="key_accept">accept</string>
+    <string name="key_source">source</string>
+    <string name="mime_json">application/json</string>
+    <string name="retailio_support_email">support@retailio.in</string>
+    <string name="retailio_support_number">+91 80 555 400 00</string>
+    <string name="rs_logo">\u20B9  </string>
+    <string name="sfc_retry">Retry</string>
+    <string name="sfc_version">version</string>
+    <string name="update">UPDATE</string>
+    <string name="version_not_supported">Version Not Supported</string>
+    <string name="version_not_supported_details">This version is outdated and no longer supported.\n Please click on the update button to continue using the app.</string>
+    <string name="send_using">Send mail using…</string>
+    <string name="tel">tel:<xliff:g name="number">%s</xliff:g></string>
+
+    <string name="send_money">Send Money</string>
+    <string name="collect_money">Collect Money</string>
+    <string name="balance_enquiry">Balance Enquiry</string>
+    <string name="merchant_id">Merchant Id:</string>
+    <string name="pay">PAY</string>
+    <string name="amount">Amount</string>
+    <string name="address">Enter your virtual address</string>
+    <string name="collect">COLLECT</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="submit">SUBMIT</string>
+    <string name="transfer_status">Transfer Status</string>
+    <string name="collection_status">Collection Status</string>
+    <string name="account_id">Account Id:</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+
+</resources>
